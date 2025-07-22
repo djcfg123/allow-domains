@@ -436,6 +436,7 @@ ipset=/locals.md/vpn_domains
 ipset=/lolz.guru/vpn_domains
 ipset=/lookerstudio.google.com/vpn_domains
 ipset=/lostfilm.run/vpn_domains
+ipset=/lostfilm.today/vpn_domains
 ipset=/lostfilm.top/vpn_domains
 ipset=/lostfilm.tv/vpn_domains
 ipset=/lostfilm.win/vpn_domains
