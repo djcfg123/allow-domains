@@ -464,6 +464,7 @@ ipset=/medium.com/vpn_domains
 ipset=/meduza.io/vpn_domains
 ipset=/megapeer.ru/vpn_domains
 ipset=/megapeer.vip/vpn_domains
+ipset=/melord.net/vpn_domains
 ipset=/memohrc.org/vpn_domains
 ipset=/meraki.com/vpn_domains
 ipset=/merezha.co/vpn_domains
