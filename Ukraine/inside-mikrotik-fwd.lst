@@ -768,6 +768,7 @@
 /ip dns static add name=baksiki.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=bakteso.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=balancer.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=balashov.com.ua type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=balashov.su type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=balcony-info.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=baldej.su type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -2345,6 +2346,7 @@
 /ip dns static add name=goldfishka68.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=golftur.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=golnk.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=golos-naroda.tv type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=golospravdy.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=golye-devushki-photo.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=gomel-sat.bz type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -5623,6 +5625,7 @@
 /ip dns static add name=sevastopolmedia.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=severmedia.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=sevesk.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=sevkor.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=sevsu.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=sew-lane.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=sewingstore.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
