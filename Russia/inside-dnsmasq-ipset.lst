@@ -118,6 +118,7 @@ ipset=/carrefouruae.com/vpn_domains
 ipset=/cats.com/vpn_domains
 ipset=/cbilling.eu/vpn_domains
 ipset=/cbilling.vip/vpn_domains
+ipset=/cdn2site.com/vpn_domains
 ipset=/cdnbunny.org/vpn_domains
 ipset=/cdninstagram.com/vpn_domains
 ipset=/cdw.com/vpn_domains
